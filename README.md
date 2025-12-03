@@ -8,7 +8,7 @@ $h = \frac{d_1 \cdot d_2}{2a}$
 
 ## Решење
 
-'''csharp
+''' csharp
 
 
 
