@@ -10,9 +10,6 @@ $h = \frac{d_1 \cdot d_2}{2a}$
 
 ``` csharp
 
-
-
-
 using System;
 class Program
 {
@@ -29,4 +26,34 @@ class Program
         Console.WriteLine("h = " + h);
     }
 }
+
+```
+
+#Тест примери 
+
+``` csharp
+
+Unesi d1: 6
+Unesi d2: 8
+Unesi a: 2
+h = 12
+
+C:\Users\Olujic PC\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe (process 25200) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+```
+
+
+``` csharp
+
+Unesi d1: 10
+Unesi d2: 20
+Unesi a: 4
+h = 25
+
+C:\Users\Olujic PC\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe (process 8568) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
 ```
