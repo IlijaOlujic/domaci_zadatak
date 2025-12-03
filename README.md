@@ -29,7 +29,7 @@ class Program
 
 ```
 
-#Тест примери 
+### Тест примери 
 
 ``` csharp
 
@@ -57,3 +57,26 @@ To automatically close the console when debugging stops, enable Tools->Options->
 Press any key to close this window . . .
 
 ```
+
+### Објекти 
+
+| Naziv promenljive | Tip podatka | Opis |
+| ----------------- | ----------- | ----- |
+| d1 | double | Prva ulazna vrednost (dimenzija) |
+| d2 | double | Druga ulazna vrednost (dimenzija) |
+| a  | double | Parametar a koji ulazi u formulu |
+| h  | double | Rezultat izracunat formulom (d1 * d2) / (2 * a) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
