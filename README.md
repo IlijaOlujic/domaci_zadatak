@@ -16,24 +16,18 @@ $h = \frac{d_1 \cdot d_2}{2a}$
 
 
 using System;
-
 class Program
 {
     static void Main()
     {
         double d1, d2, a, h;
-
         Console.Write("Unesi d1: ");
         d1 = double.Parse(Console.ReadLine());
-
         Console.Write("Unesi d2: ");
         d2 = double.Parse(Console.ReadLine());
-
         Console.Write("Unesi a: ");
         a = double.Parse(Console.ReadLine());
-
         h = (d1 * d2) / (2 * a);
-
         Console.WriteLine("h = " + h);
     }
 }
